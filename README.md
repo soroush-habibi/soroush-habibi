@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>🌱I'm Soroush Habibi from Iran<br>🔭I'm backend developer!
+Hi there 👋<br>🌱I'm Soroush Habibi from Iran<br>🔭I'm a backend developer!
 
 
 ## 🌐 Socials:
